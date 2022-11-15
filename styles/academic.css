@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 
 .academic-intro {
@@ -63,7 +64,7 @@ body {
   flex-direction: column;
   width: 400px;
   justify-content: center;
-  top: -65%;
+  top: -55%;
   left: 60%;
 }
 .playlist-2{
